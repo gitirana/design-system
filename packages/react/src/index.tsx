@@ -5,7 +5,7 @@ export const Button = styled('button', {
   fontFamily: '$default',
   backgroundColor: '$green300',
   borderRadius: '$sm',
-  fontWeight: '$bold',
+  fontWeight: '$medium',
   color: '$white',
   border: 'none',
 
