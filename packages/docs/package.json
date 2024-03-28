@@ -14,9 +14,11 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@lions-ui/ts-config": "*",
+    "@lions-ui/eslint-config": "*",
     "@lions-ui/react": "*",
     "@lions-ui/tokens": "*",
-    "@lions-ui/eslint-config": "*",
+    "polished": "^4.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

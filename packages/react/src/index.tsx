@@ -3,7 +3,7 @@ import { styled } from './styles'
 
 export const Button = styled('button', {
   fontFamily: '$default',
-  backgroundColor: '$green300',
+  backgroundColor: '$blue300',
   borderRadius: '$sm',
   fontWeight: '$medium',
   color: '$white',
