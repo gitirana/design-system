@@ -2,7 +2,7 @@ import { Box, BoxProps } from '@lions-ui/react'
 import { StoryObj, Meta } from '@storybook/react'
 
 export default {
-  title: 'Form/Box',
+  title: 'Surfaces/Box',
   component: Box,
   args: {
     children: (
