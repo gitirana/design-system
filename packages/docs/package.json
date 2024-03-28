@@ -14,11 +14,13 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@lions-ui/react": "*",
+    "@lions-ui/tokens": "*",
+    "@lions-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@lions-ui/eslint-config": "*",
     "@chromatic-com/storybook": "^1.2.25",
     "@storybook/addon-essentials": "^8.0.5",
     "@storybook/addon-interactions": "^8.0.5",
